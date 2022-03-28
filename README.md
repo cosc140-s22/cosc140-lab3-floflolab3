@@ -32,5 +32,9 @@ a long time
 i liked it 
 ## Feedback
 
-Once you commit and submit your work to Github, I'll update this section with feedback.
+A long time and you liked it -- woo-hoo!
+
+Well done.
+
+S
 
